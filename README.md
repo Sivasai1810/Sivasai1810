@@ -26,6 +26,7 @@
 
 
 ### Frameworks & Libraries
+![LangChain](https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logo=chainlink&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
